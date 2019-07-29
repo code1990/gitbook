@@ -43,3 +43,6 @@
 ## 执行npm run build 编译
 
 ## 页面预览 gitbook serve http://localhost:4000 
+
+## gitbook.zip 为创建好的压缩模板 直接修改文件夹名称 即可创建新的笔记
+
