@@ -46,3 +46,13 @@
 
 ## gitbook.zip 为创建好的压缩模板 直接修改文件夹名称 即可创建新的笔记
 
+## 博客参考
+
+[https://www.jianshu.com/p/4e109a1113b2](https://www.jianshu.com/p/4e109a1113b2)
+
+[https://blog.csdn.net/lu_embedded/article/details/81100704](https://blog.csdn.net/lu_embedded/article/details/81100704)
+
+[https://chrisniael.gitbooks.io/gitbook-documentation/content/format/chapters.html](https://chrisniael.gitbooks.io/gitbook-documentation/content/format/chapters.html)
+
+[https://cloud.tencent.com/developer/article/1449410](https://cloud.tencent.com/developer/article/1449410)
+
